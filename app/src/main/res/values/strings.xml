@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProvaA3</string>
+    <string name="nome_aluno">Aluno</string>
+    <string name="aluno_matricula">Matricula</string>
+</resources>
